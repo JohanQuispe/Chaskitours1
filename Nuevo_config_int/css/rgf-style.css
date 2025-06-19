@@ -57,7 +57,7 @@ a {
    ========================================================================== */
 
 .header { width: 100%; }
-.top-banner { background-color: var(--primary-dark); color: var(--text-light); display: flex; justify-content: center; align-items: center; padding: 12px 20px; position: relative; font-size: 18px; text-align: center; background-image: url('../assets/img/vector.png'); background-repeat: repeat; }
+.desktop-editar-datos .top-banner { background-color: var(--primary-dark); color: var(--text-light); display: flex; justify-content: center; align-items: center; padding: 12px 20px; position: relative; font-size: 18px; text-align: center; background-image: url('../assets/img/vector.png'); background-repeat: repeat; }
 .top-banner a { text-decoration: underline; margin-left: 8px; color: var(--text-light); }
 .close-banner-btn { background: rgba(255, 255, 255, 0.1); border: none; color: white; font-size: 24px; border-radius: 50%; width: 32px; height: 32px; cursor: pointer; position: absolute; right: 40px; line-height: 32px; }
 .main-nav { display: flex; justify-content: space-between; align-items: center; padding: 20px 80px; background-color: var(--primary-light); border-bottom: 1px solid var(--grey-border); }
